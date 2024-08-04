@@ -1,1 +1,1 @@
-# boost-test
+# Proyecto template para soluciones con boost.test
